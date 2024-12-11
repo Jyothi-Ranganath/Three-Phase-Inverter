@@ -11,3 +11,12 @@ Rotating reference frame is used to analyse the 3-phase voltage.
 frequency (F_est) is estimated using the Zero crossing as it enables high speed processing and focuses on the sign change instead of entire waveform.
 Also phase angle (Theta_est) is estimated using the D_axis and Q_axis data. 
 Data are normalized to improve the accuracy. 
+
+
+## Output of the Program
+
+The program calculates and displays the Estimated Frequency and Phase Angle . Below is the output for given data:
+
+```plaintext
+Estimated Frequency: 50.00 Hz
+Phase Angle: 60.01 degrees
